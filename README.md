@@ -1,22 +1,23 @@
-<<<<<<< HEAD
-# Taller-sobre-Interfaces-vs-Clases-Abstractas-en-Java
-=======
-## Getting Started
+# Taller sobre Interfaces vs Clases Abstractas en Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este proyecto tiene como objetivo comprender las diferencias, similitudes y usos prácticos entre **interfaces** y **clases abstractas** en el lenguaje de programación **Java**.  
+A través de ejemplos y ejercicios guiados, se busca reforzar la comprensión de la **herencia múltiple**, la **abstracción** y la **implementación de contratos** dentro de la programación orientada a objetos.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🧩 Contenido
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- **Ejercicios prácticos:** ejemplos de uso de interfaces y clases abstractas.  
+- **Código fuente:** carpeta `src/` con los programas en Java.  
+- **Documentación:** explicación básica de cada caso y su propósito.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🎯 Objetivo de aprendizaje
 
-## Dependency Management
+Fortalecer las habilidades del estudiante para:
+1. Diferenciar entre una **clase abstracta** y una **interfaz**.  
+2. Implementar ambos tipos de estructuras correctamente.  
+3. Comprender cómo se aplican en contextos de herencia múltiple.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
->>>>>>> 1c82d5a (Subida general del Taller sobre Interfaces vs Clases Abstractas en Java)
+---
