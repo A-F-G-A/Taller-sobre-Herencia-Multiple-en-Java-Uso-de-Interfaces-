@@ -1,4 +1,7 @@
 // Interfaz con un metodo abstracto
+
+import Ejercicio_1.Persona;
+
 interface Persona {
     void trabajar();
 }
