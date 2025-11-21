@@ -1,23 +1,51 @@
-# Taller sobre Interfaces vs Clases Abstractas en Java
+Taller: Herencia Múltiple en Java (Uso de Interfaces)
 
-Este proyecto tiene como objetivo comprender las diferencias, similitudes y usos prácticos entre **interfaces** y **clases abstractas** en el lenguaje de programación **Java**.  
-A través de ejemplos y ejercicios guiados, se busca reforzar la comprensión de la **herencia múltiple**, la **abstracción** y la **implementación de contratos** dentro de la programación orientada a objetos.
+Este repositorio contiene el taller sobre herencia múltiple en Java usando interfaces. Aquí se explica qué es la herencia múltiple, por qué Java no la permite directamente con clases, y cómo las interfaces solucionan este problema.
+También incluye ejemplos prácticos y ejercicios desarrollados.
 
----
+Contenido del repositorio
 
-## 🧩 Contenido
+Explicación del tema
 
-- **Ejercicios prácticos:** ejemplos de uso de interfaces y clases abstractas.  
-- **Código fuente:** carpeta `src/` con los programas en Java.  
-- **Documentación:** explicación básica de cada caso y su propósito.
+Ejemplos de interfaces
 
----
+Implementaciones de interfaces en distintas clases
 
-## 🎯 Objetivo de aprendizaje
+Solución de los ejercicios propuestos en el taller
 
-Fortalecer las habilidades del estudiante para:
-1. Diferenciar entre una **clase abstracta** y una **interfaz**.  
-2. Implementar ambos tipos de estructuras correctamente.  
-3. Comprender cómo se aplican en contextos de herencia múltiple.
+Código organizado por carpetas según los ejercicios
 
----
+¿Qué se aprende en este taller?
+
+Qué es la herencia múltiple
+
+Por qué Java no permite heredar de múltiples clases
+
+Para qué sirven las interfaces
+
+Cómo implementar interfaces en Java
+
+Cómo aplicar herencia múltiple mediante interfaces
+
+Buenas prácticas al usarlas
+
+Requisitos
+
+JDK 8 o superior
+
+Un IDE o editor compatible con Java (VSCode, IntelliJ, NetBeans, etc.)
+
+Cómo usar este repositorio
+
+Clona el proyecto:
+
+git clone https://github.com/A-F-G-A/Taller-sobre-Herencia-Multiple-en-Java-Uso-de-Interfaces-.git
+
+
+Abre la carpeta del proyecto en tu IDE.
+
+Ejecuta los ejemplos dentro de la ruta src/.
+
+Autor
+
+Andrés Guzmán
